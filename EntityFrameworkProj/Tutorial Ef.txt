@@ -1,0 +1,11 @@
+Pacotes Nugets utilizados: Microsoft.EntityFrameworkCore ----- Microsoft.EntityFrameworkCore.SqlServer ----- Microsoft.EntityFrameworkCore.Tools
+
+1° Ferramentas ---> Gerenciador de Pacotes do Nuget ---> Console do gerenciador de Pacotes.
+
+2° Insira e execute os seguintes comandos em ordem:  
+	1° update-database
+	2° add-migration nomePreferência
+	3° update-database
+	
+
+
